@@ -2,9 +2,6 @@
 <a href="https://ibb.co/F5Jx36s"><img src="https://i.ibb.co/6HbnwYv/Kelsey-Wyatt.png" alt="Kelsey-Wyatt" border="0"></a>
 </p>
 
-
-### Feel Free to Contact me...
-
 <p align="center">
 	<a href="https://github.com/klw11j"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/kelsey-wyatt/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
@@ -15,11 +12,11 @@
 ### Technologies & Tools
 
 <p align="center">
-  <img width="7%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/python.png"/>
-	<img width="7%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/html-5.png"/>
-	<img width="7%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/javascript-logo.png"/>
-  <img width="7%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/tableau-software.png"/>
-  <img width="7%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>
+  <img width="6%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/python.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/html-5.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/javascript-logo.png"/>
+  <img width="6%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/tableau-software.png"/>
+  <img width="6%" style="padding:5px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>
 </p>
 
 ### GitHub Stats
